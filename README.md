@@ -1,10 +1,10 @@
 # Stress Level Prediction Using Sleep and Physiological Data
 
-## Research Question
-**How accurately can stress levels during sleep be predicted, and which physiological factors play the most significant role in these predictions?**
-
 ## Project Overview
 This project explores the relationship between physiological metrics (e.g., heart rate, blood oxygen levels) and stress levels during sleep. Using machine learning techniques, the goal is to predict stress levels and identify key factors contributing to stress.
+
+## Research Question
+**How accurately can stress levels during sleep be predicted, and which physiological factors play the most significant role in these predictions?**
 
 ## Motivation
 Understanding stress predictors can help design better sleep and lifestyle interventions. This project aims to provide insights into how physiological data affects stress levels and proposes actionable recommendations for stress management.
